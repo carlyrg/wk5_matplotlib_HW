@@ -3,6 +3,8 @@ HW-wk 5
 
 I used Jupyter Notebook with the help of Pandas and Numpy libraries to conduct all of my analysis for this assignment in which I analyzed  a csv data file from a fictional ride sharing company called Pyber. I analyzed the data given to me to determine if there was a correlation between the type of city and the average fare, number of drivers and length of rides. These findings are illustrated in a bubble chart and a few pie charts created using Matplotlib and Seaborn libraries
 
+There are two csv files containing the original data and my Jupyter notebook that has all my work as well as all the graphs output as images.
+
 Key findings can be found at the end.
 
 
